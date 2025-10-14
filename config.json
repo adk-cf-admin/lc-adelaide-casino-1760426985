@@ -1,0 +1,204 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#f0f0f0",
+            "lang-select-color": "#222829",
+            "bg-light": "#bababa",
+            "welcome-bonus-bg": "#f0f0f0",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#f5f4f4",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#bababa",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#dd5859",
+            "yellow": "#b45add",
+            "yellow-button": "#dd5859",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#e8e8e8",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#bababa",
+            "faq-label": "#e8e8e8",
+            "bg-footer": "#bababa",
+            "copyright": "#bababa",
+            "starColor": "#b45add",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "https:\/\/backend.builder.adkey.org:443\/api\/fonts\/download\/7",
+                "isCustom": true
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Skycity Casino Adelaide",
+            "title": "Adelaide Casino | Games, VIP Lounges & Entertainment at SkyCity Adelaide",
+            "description": "Discover Adelaide Casino \u2014 South Australia\u2019s largest casino. Enjoy table games, slot machines, VIP lounges, progressive jackpots, and premium service at SkyCity Adelaide.",
+            "canonical": "#",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/127",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/116",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/132"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/122",
+            "imageSizeModifier": 1,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Adelaide Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Adelaide Casino \u2014 Games and Entertainment at SkyCity Adelaide",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/126",
+            "imageSizeModifier": 20,
+            "imageYModifier": -7,
+            "imageXModifier": 5,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/128",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slot machines available",
+                "Classic table games with flexible limits",
+                "Generous bonuses and loyalty rewards program",
+                "Exclusive VIP areas for premium players",
+                "Live entertainment and themed events weekly",
+                "Fine dining and premium cocktail bars"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Adelaide Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/131",
+            "imageSizeModifier": -50,
+            "imageYModifier": 0,
+            "imageXModifier": 5,
+            "mobileAlt": "Adelaide Casino App",
+            "mobileGooglePlayImageTitle": "Adelaide Casino App",
+            "mobileIosImageTitle": "Adelaide Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "skycity casino adelaide",
+                "description1": "",
+                "items": [
+                    "Wide Game Selection",
+                    "Exclusive VIP Lounges",
+                    "Progressive Jackpots"
+                ],
+                "description2": "Adelaide Casino, or SkyCity Adelaide, is a vibrant hub where excitement meets elegance. Known for its dynamic atmosphere, it offers guests a unique blend of world-class gaming, fine dining, and luxury accommodation. Whether you\u2019re seeking thrilling entertainment or a sophisticated escape, this destination delivers an unforgettable experience in the heart of Adelaide.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/129",
+                "imageSizeModifier": 5,
+                "imageYModifier": 0,
+                "imageXModifier": -5,
+                "imageAlt": "History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "About skycity casino adelaide",
+                "description": "\n\n <p>\n        Adelaide Casino, known as SkyCity Adelaide, is the heart of gaming entertainment in South Australia. Every guest here is immersed in an atmosphere of premium service and modern comfort. The casino offers more than ninety table games and over nine hundred gaming machines, including progressive jackpots.\n    <\/p>\n<br>\n    <p>\n        The most popular game is baccarat, which has its own dedicated Baccarat Pavilion. Fans of blackjack and roulette will find both classic and innovative versions, while poker enthusiasts will appreciate the spacious poker room, one of the largest in the country. For those who prefer fast-paced action, Rapid Roulette and electronic versions of popular games are available.\n    <\/p><br>\n    <p>\n        Entertainment at SkyCity Adelaide goes far beyond the casino floor. Guests can indulge in culinary experiences at premium restaurants serving Australian and international cuisine, or spend the evening in stylish bars with panoramic city views. The atmosphere is complemented by modern art installations and comfortable lounge areas, creating the perfect setting for social gatherings and events.\n    <\/p><br>\n    <p>\n        A special highlight of the complex is the EOS by SkyCity hotel \u2014 a true embodiment of luxury and personalized service. Every detail is designed for maximum comfort: spacious rooms with floor-to-ceiling windows, designer furniture, smart lighting systems, and exclusive amenities. Guests can unwind in the spa area with massage rooms, sauna, and steam room, enjoy the outdoor pool overlooking the River Torrens, or work out in the state-of-the-art fitness center.\n    <\/p><br>\n    <p>\n        The hotel features five restaurants, including Sol Bar with stunning views of North Adelaide, as well as unique spaces for weddings, conferences, and private events. Thanks to its central location, EOS by SkyCity is the perfect starting point for exploring the culture, cuisine, and natural beauty of South Australia.\n    <\/p>\n<br>\n\n\n\n\n\n\n\n    <style>\n        \/* \u0422\u043e\u043b\u044c\u043a\u043e \u043a\u043e\u043b\u043e\u043d\u043a\u0438: 2 \u043d\u0430 \u0434\u0435\u0441\u043a\u0442\u043e\u043f\u0435, 1 \u043d\u0430 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 *\/\n        .two-col {\n            display: grid;\n            grid-template-columns: 1fr 1fr;\n            gap: 24px;\n        }\n        @media (max-width: 640px) {\n            .two-col {\n                grid-template-columns: 1fr;\n            }\n        }\n    <\/style>\n<\/head>\n<body>\n    <strong> <h1>Rules for Visiting Adelaide Casino<\/h1> <\/strong>\n    <p>\n        Adelaide Casino is South Australia\u2019s leading entertainment destination, offering a safe and comfortable environment for all guests. \n        To make your visit enjoyable and hassle-free, please review the following guidelines.\n    <\/p>\n<br>\n    <div class=\"two-col\">\n        <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n        <div>\n            <strong><h2>Age Requirements<\/h2><\/strong>\n            <ul>\n                <li>\u2022 Entry is allowed only for guests aged 18 and over.<\/li>\n                <li>\u2022 A valid photo ID (passport, driver\u2019s license, or official identification) must be presented upon entry.<\/li>\n            <\/ul>\n            <br>\n\n            <strong><h2>Dress Code<\/h2><\/strong>\n            <p>The standard is smart casual.<\/p>\n            <ul>\n                <li><strong>For men:<\/strong> collared shirts or polos, trousers or clean jeans, closed shoes.<\/li>\n                <li><strong>For women:<\/strong> elegant casual wear, dresses, blouses, and appropriate footwear.<\/li>\n            <\/ul>\n            <br>\n        <\/div>\n\n        <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n        <div>\n            <strong><h2>Opening Hours<\/h2><\/strong>\n            <ul>\n                <li><strong>Gaming machines:<\/strong> daily from 10:00 AM to 4:00 AM (Friday and Saturday until 5:00 AM).<\/li>\n                <li> <strong>Table games:<\/strong> from 12:00 PM to 4:00 AM.<\/li>\n            <\/ul>\n            <br>\n\n            <strong><h2>Additional Rules<\/h2><\/strong>\n            <ul>\n                <li>\u2022 Entry is prohibited for anyone under the influence of drugs or excessive alcohol.<\/li>\n                <li>\u2022 Photography and video recording in gaming areas are restricted.<\/li>\n                <li>\u2022 Smoking is allowed only in designated areas.<\/li>\n                <li>\u2022 Management reserves the right to refuse entry for rule violations.<\/li>\n            <\/ul>\n        <\/div>\n    <\/div>\n<\/body>\n\n\n\n\n\n\n\n <strong> <h1>SkyCity Rewards: Adelaide Casino Loyalty Program<\/h1> <\/strong>\n    <p>\n        SkyCity Rewards is the exclusive loyalty program at Adelaide Casino, designed for guests who value benefits and personalized experiences.\n        Membership unlocks access to rewards, discounts, and special offers that make every visit more rewarding.\n    <\/p>\n\n\n    <p>\n        Members receive a personal card to earn points when playing gaming machines, table games, or paying for dining and accommodation at EOS by SkyCity.\n        The more you play and enjoy the services, the more points and perks you collect.\n    <\/p>\n<br>\n    <strong><h2>Earning and Redeeming Points<\/h2> <\/strong>\n\n    <ul>\n        <li>\u2022 Gaming machines and table games earn points based on play.<\/li>\n        <li>\u2022 Dining and hotel stays also earn points: $1 = 1 point.<\/li>\n        <li>\u2022 100 points = $1, redeemable for food, drinks, accommodation, or gaming.<\/li>\n    <\/ul>\n<br>\n    <strong> <h2>Membership Levels<\/h2> <\/strong>\n    <p>\n        SkyCity Rewards offers five tiers: <strong>Premier, Star, Superstar, Icon, Legend<\/strong>.\n        Higher levels unlock greater benefits, including VIP lounge access, exclusive promotions, personalized offers, and priority service.\n    <\/p>\n\n    \n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Adelaide Casino Guide",
+                "description": "<!-- bonus-->\n    <style>\n        \/* \u0422\u043e\u043b\u044c\u043a\u043e \u043a\u043e\u043b\u043e\u043d\u043a\u0438 *\/\n        .columns {\n            columns: 2;\n            column-gap: 32px;\n        }\n        @media (max-width: 640px) {\n            .columns {\n                columns: 1;\n            }\n        }\n    <\/style>\n<\/head>\n<body>\n    <h1>Adelaide Casino Promotions<\/h1>\n\n    <div class=\"columns\">\n        <strong><h2>Welcome Bonus at Adelaide Casino<\/h2><\/strong>\n        <ul>\n            <li>\u2022\tUp to 100 free spins on popular slots.<\/li>\n            <li>\u2022\tFirst deposit bonus \u2014 up to 100% when you deposit from $20.<\/li>\n        <\/ul>\n<br>\n       <strong> <h2>Weekly Cashback<\/h2><\/strong>\n        <ul>\n            <li>\u2022\tCashback amount: from 5% to 15%.<\/li>\n            <li>\u2022 Payout: every Monday.<\/li>\n        <\/ul>\n<br><br>\n       <strong> <h2>Promotions for Regular Players<\/h2><\/strong>\n        <ul>\n            <li>\u2022 Happy Hours \u2014 double reward points.<\/li>\n            <li>\u2022 Prize tournaments.<\/li>\n            <li>\u2022 Birthday bonuses.<\/li>\n        <\/ul>\n<br>\n       <strong\/> <h2>VIP Program and Loyalty System<\/h2><\/strong>\n        <ul>\n            <li>\u2022 The SkyCity Rewards program includes 5 levels.<\/li>\n            <li>\u2022 Cashback up to 15%.<\/li>\n            <li>\u2022 Personal manager.<\/li>\n            <li>\u2022 Exclusive gifts and events.<\/li>\n        <\/ul>\n    <\/div>\n\n<\/body>\n\n\n\n\n\n<h1>Popular Games<\/h1>\n    <p>\n        Adelaide Casino offers more than 950 slot machines and around 90\u2013200 tables for classic games:\n    <\/p>\n<br>\n    <strong><h2>Slot Machines (Pokies)<\/h2><\/strong>\n    <ul>\n        <li>\u2022 Over 950 machines, including progressive jackpots (Fort Knox with prizes up to six figures).<\/li>\n        <li>\u2022 Popular slots: Dolly Parton, Indian Dreaming, Ghost Busters, Black Rose, Lucky Star.<\/li>\n    <\/ul>\n<br>\n    <strong><h2>Table Games<\/h2><\/strong>\n    <ul>\n        <li>\u2022 Blackjack (including Free Bet Blackjack and Pontoon)<\/li>\n        <li>\u2022 Roulette (Vegas Star, Rapid Roulette)<\/li>\n        <li>\u2022 Baccarat (with a dedicated Baccarat Pavilion)<\/li>\n        <li>\u2022 Caribbean Stud Poker, Casino War, Sic Bo, Texas Hold\u2019em Bonus<\/li>\n        <li>\u2022 Big Wheel \u2014 payouts up to 45:1, automated version Lucky Big Wheel \u2014 up to 52:1.<\/li>\n    <\/ul>\n<br>\n    <strong><h2>Poker<\/h2><\/strong>\n    <p>\n        One of the largest poker areas in Australia, plus sports betting (TAB and Sportbets).\n    <\/p>\n\n\n\n<section id=\"adelaide-casino-bet-limits\">\n  <h1>Minimum and Maximum Bets at Adelaide Casino<\/h1>\n  <p>Adelaide Casino offers flexible betting limits suitable for both beginners and high rollers. Below is an overview of typical minimum and maximum stakes by game type:<\/p>\n\n  <table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n    <thead>\n      <tr style=\"background:#828080;\">\n        <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n        <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n        <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n      <\/tr>\n    <\/thead>\n    <tbody>\n      <tr>\n        <td style=\"border:1px solid #ccc; padding:8px;\">Slot Machines (Pokies)<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.01 \u2013 $1 AUD<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 \u2013 $10 AUD<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$2 \u2013 $5 AUD<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to $1,000 AUD<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10 AUD<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to $1,000 AUD<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$20 AUD<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to $10,000 AUD (VIP)<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #ccc; padding:8px;\">Poker (Cash Games)<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$50 AUD buy-in<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Varies by table<\/td>\n      <\/tr>\n    <\/tbody>\n  <\/table>\n\n\n\n\n\n\n\n\n <h1>Entertainment and Events<\/h1>\n    <p>\n        Adelaide Casino is not just about gaming \u2014 it\u2019s also an entertainment hub with restaurants, bars, and live shows:\n    <\/p>\n<br>\n   <strong> <h2>Restaurants and Bars<\/h2> <\/strong>\n    <ul>\n        <li>\u2022 Madame Hanoi (Vietnamese cuisine)<\/li>\n        <li>\u2022 Sean\u2019s Kitchen (modern Australian cuisine)<\/li>\n        <li>\u2022 Chandelier Bar for cocktails<\/li>\n    <\/ul>\n<br>\n    <strong> <h2>Live Music and Parties<\/h2> <\/strong>\n    <ul>\n        <li>\u2022 The District at SkyCity \u2014 a venue for concerts, DJ sets, and themed parties.<\/li>\n    <\/ul>\n<br>\n    <strong> <h2>Seasonal Promotions and Tournaments<\/h2> <\/strong>\n    <ul>\n        <li>\u2022 Poker tournaments<\/li>\n        <li>\u2022 Themed nights<\/li>\n        <li>\u2022 Food festivals<\/li>\n    <\/ul>\n<br>\n    <strong> <h2>VIP Areas<\/h2> <\/strong>\n    <ul>\n        <li>\u2022 Private events for SkyCity Rewards members<\/li>\n        <li>\u2022 Personal hosts<\/li>\n        <li>\u2022 Exclusive tastings<\/li>\n    <\/ul>\n\n\n\n\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "What payment methods are available at Adelaide Casino?",
+                    "answer": "You can use cash, debit and credit cards, as well as some electronic payment systems. Check available options at the guest service desk."
+                },
+                {
+                    "title": "Is smoking allowed in the casino?",
+                    "answer": "Smoking is permitted only in designated areas. It is strictly prohibited in gaming zones."
+                },
+                {
+                    "title": "Does the casino offer parking for guests?",
+                    "answer": "Yes, Adelaide Casino provides parking, including VIP spaces. Discounts may be available for loyalty program members."
+                },
+                {
+                    "title": "Is the casino open on public holidays?",
+                    "answer": "Yes, Adelaide Casino is open 24\/7, including all public holidays."
+                },
+                {
+                    "title": "Does the casino offer free drinks or food?",
+                    "answer": "In gaming areas, drinks may be complimentary for active players. Restaurants and bars with diverse menus are also available."
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/125",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Adelaide Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

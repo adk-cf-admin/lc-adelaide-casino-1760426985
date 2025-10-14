@@ -1,0 +1,19 @@
+{
+  "name": "Skycity Casino Adelaide",
+  "short_name": "Skycity Casino Adelaide",
+  "theme_color": "",
+  "background_color": "#f0f0f0",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1760097112-faviconv2-2.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
