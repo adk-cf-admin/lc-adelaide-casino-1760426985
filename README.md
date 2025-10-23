@@ -1,8 +1,8 @@
-# LC Adelaide Casino
+# adelaide-casino-online.com
 
 
 
-Built on: 2025-10-17 13:35:12
+Built on: 2025-10-23 11:30:04
 
 Available languages:
 - en-CA
